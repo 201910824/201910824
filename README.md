@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jeongwoo&fontSize=90" />
-
-## Hi there 👋 
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JW's&nbsp;GitHub!&fontSize=90" />
+  
+## 👋 Hi there 👋 
 ### I'm learning 'Human Intelligence Information Engineering' at university! 🏫
 
 <!--
@@ -18,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style=flat-square&logo={로고이름}&logoColor={로고 색깔}"/>
 -->
-
+  <br/><br/>
 ## 📚 Tech Stack 📚
 
 #### 💻 Platforms & Languages 💻
@@ -30,3 +32,6 @@ Here are some ideas to get you started:
 
 #### ☺ SNS ☺
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/KaKao-FFCD00?style=flat-square&logo=KaKao&logoColor=white"/>
+  <br/>  <br/>  <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=201910824&show_icons=true">
+  </div>
