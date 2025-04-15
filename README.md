@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 #### 🛠 Tools 🛠
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>  <img src="https://img.shields.io/badge/IntelliJ IDEA-232F3E?style=flat-square&logo=IntelliJ IDEA&logoColor="/>  <img src="https://img.shields.io/badge/PyCharm-CFFFE5?style=flat-square&logo=PyCharm&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>   <img src="https://img.shields.io/badge/PyCharm-CFFFE5?style=flat-square&logo=PyCharm&logoColor=black"/>
 
 #### ☺ SNS ☺
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/KaKao-FFCD00?style=flat-square&logo=KaKao&logoColor=white"/>
